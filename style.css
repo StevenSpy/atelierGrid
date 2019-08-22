@@ -1,0 +1,39 @@
+html{
+    margin : 0;
+    padding : 0;
+    font-size : 10px;
+}
+
+body{
+    font-size : 1.5rem;
+    color: white;
+}
+
+header{
+    background-color: aqua;
+}
+
+nav{
+    background-color: chocolate;
+}
+
+main{
+    background-color: blueviolet;
+}
+
+section{
+    background-color: crimson;
+}
+
+article{
+    background-color: grey;
+}
+
+aside{
+    background-color: blue;
+}
+
+footer{
+    background-color: chartreuse;
+    text-align: center;
+}
